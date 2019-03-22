@@ -1,6 +1,14 @@
 # PythonDjangoWebApp
 A Full stack web development practice with python and Django
 
+## For dave
+### Please run the following commands
+```
+git clone https://github.com/Shefuchow/mtbtoolblog.git
+cd mtbtoolblog
+(if you have multiple python versions installed, make sure to run 3.6 or above)
+python3 manage.py runserver
+```
 
 *I'm working on a Mac*
 But to get started: 
